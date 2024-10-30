@@ -1,0 +1,16 @@
+{
+    "name": "chosify/wordpress",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "Chosify\\Wordpress\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jesse Hendriks",
+            "email": "info@jessehendriks.nl"
+        }
+    ],
+    "require": {}
+}
